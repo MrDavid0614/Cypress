@@ -19,7 +19,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run cypress`
 
-Run all cypress e2e tests.
+Open cypress for e2e tests.
 
 ### `npm run build`
 
